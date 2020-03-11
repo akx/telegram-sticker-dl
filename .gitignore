@@ -1,0 +1,5 @@
+*.jsonl
+*.py[cod]
+*.sqlite3
+/downloads
+/stickers
